@@ -12179,3 +12179,5 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2026-11-11_04:28:57] TML Solution Studio: Github Remote Status: origin	https://github.com/morkel644/raspberrypi (fetch)
 origin	https://<personal access token hidden>@github.com/morkel644/raspberrypi.git (push)
+[INFO 2026-11-11_04:30:33] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-2c5f.py
+[INFO 2026-11-11_04:30:33] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-2c5f.py
