@@ -12192,3 +12192,5 @@ Error response from daemon: failed to export layer: CreateDiff: mount callback f
 [ERROR] Docker commit structural assembly mapping failed.
 [INFO 2026-11-11_04:32:26] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-2c5f.py
 [INFO 2026-11-11_04:32:26] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-2c5f.py
+[INFO 2026-11-11_04:32:28] Predictions DAG in tml_system_step_6_kafka_predictions_dag-myawesometmlsolutionml-2c5f.py
+[INFO 2026-11-11_04:32:28] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-myawesometmlsolutionml-2c5f.py
